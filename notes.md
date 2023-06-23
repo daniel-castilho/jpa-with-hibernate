@@ -2023,3 +2023,4 @@ insert into course_students(courses_id,students_id)
 values(10002,20002);
 ```
 ---
+
